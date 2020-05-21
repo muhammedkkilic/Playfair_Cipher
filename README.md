@@ -24,3 +24,7 @@ Encrypted Text: rq
 Encryption:   
   n -> r  
   t -> q  
+
+![encryption-of-nt](https://user-images.githubusercontent.com/33607770/82568791-0336c500-9b88-11ea-8370-6dc7b05c287b.png)  
+
+Programın Ekran Görüntüsü  
