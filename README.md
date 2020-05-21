@@ -33,4 +33,7 @@ Programın Ekran Görüntüsü
 
 ![encryption](https://user-images.githubusercontent.com/33607770/82569263-aab3f780-9b88-11ea-8b7f-47c3e70f7f83.JPG) 
 
+Deşifreleme  
+
+![decryption](https://user-images.githubusercontent.com/33607770/82569477-f8c8fb00-9b88-11ea-8b22-3af3ad853e2e.JPG)  
 
