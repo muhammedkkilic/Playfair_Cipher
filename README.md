@@ -28,3 +28,9 @@ Encryption:
 ![encryption-of-nt](https://user-images.githubusercontent.com/33607770/82568791-0336c500-9b88-11ea-8370-6dc7b05c287b.png)  
 
 Programın Ekran Görüntüsü  
+
+Şifreleme  
+
+![encryption](https://user-images.githubusercontent.com/33607770/82569263-aab3f780-9b88-11ea-8b7f-47c3e70f7f83.JPG) 
+
+
