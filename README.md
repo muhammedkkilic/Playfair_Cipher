@@ -19,3 +19,8 @@ Encryption:
   s -> t  
   t -> l  
 
+Diagraph: "nt"  
+Encrypted Text: rq  
+Encryption:   
+  n -> r  
+  t -> q  
