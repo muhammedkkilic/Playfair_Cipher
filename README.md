@@ -19,6 +19,9 @@ Encryption:
   s -> t  
   t -> l  
 
+
+![encryption-of-st](https://user-images.githubusercontent.com/33607770/82569686-404f8700-9b89-11ea-8677-37a5b85c605d.png)  
+
 Diagraph: "nt"  
 Encrypted Text: rq  
 Encryption:   
