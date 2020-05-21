@@ -11,3 +11,11 @@ Encryption:
   m -> c  
   e -> l  
 
+
+![encryption-of-me](https://user-images.githubusercontent.com/33607770/82568600-beab2980-9b87-11ea-8d86-8072b36ac152.png)  
+Diagraph: "st"  
+Encrypted Text: tl  
+Encryption:   
+  s -> t  
+  t -> l  
+
